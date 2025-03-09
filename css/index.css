@@ -46,7 +46,7 @@ p {
     text-align: center;
 }
 
-.message-1, .message-2 {
+.message-1, .message-2, .message-3 {
     display: flex;
     flex-direction: column;
     justify-content: center;
